@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of afrux/asirem.** Not for installation: use [Packagist](https://packagist.org/packages/afrux/asirem) or the [upstream repository](https://github.com/afrux/asirem).
 
-**0** versions archived · Latest: [`v0.1.8`](https://github.com/flarchive/afrux-asirem/tree/archive/v0.1.8) · License: `MIT` · Flarum: `^1.8.0`
+**9** versions archived · Latest: [`v0.1.8`](https://github.com/flarchive/afrux-asirem/tree/archive/v0.1.8) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2021-06-28 | `^1.0.0` | [Browse](https://github.com/flarchive/afrux-asirem/tree/archive/v0.1.0) |
+| `v0.1.1` | 2021-06-28 | `^1.0.0` | [Browse](https://github.com/flarchive/afrux-asirem/tree/archive/v0.1.1) |
+| `v0.1.2` | 2021-07-07 | `^1.0.0` | [Browse](https://github.com/flarchive/afrux-asirem/tree/archive/v0.1.2) |
+| `v0.1.3` | 2021-08-04 | `^1.0.0` | [Browse](https://github.com/flarchive/afrux-asirem/tree/archive/v0.1.3) |
+| `v0.1.4` | 2021-10-14 | `^1.0.0` | [Browse](https://github.com/flarchive/afrux-asirem/tree/archive/v0.1.4) |
+| `v0.1.5` | 2022-02-01 | `^1.0.0` | [Browse](https://github.com/flarchive/afrux-asirem/tree/archive/v0.1.5) |
+| `v0.1.6` | 2022-02-01 | `^1.0.0` | [Browse](https://github.com/flarchive/afrux-asirem/tree/archive/v0.1.6) |
+| `v0.1.7` | 2022-02-18 | `^1.0.0` | [Browse](https://github.com/flarchive/afrux-asirem/tree/archive/v0.1.7) |
+| `v0.1.8` | 2023-05-21 | `^1.8.0` | [Browse](https://github.com/flarchive/afrux-asirem/tree/archive/v0.1.8) |
 
 Catalog entry: [packages/afrux-asirem.json](https://github.com/flarchive/archive-index/blob/main/packages/afrux-asirem.json)
 
